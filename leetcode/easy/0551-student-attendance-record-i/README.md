@@ -48,8 +48,8 @@ Explanation: The student was late 3 consecutive days in the last 3 days, so is n
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 8.2 MB (beats 96.51%)  
-**Submitted:** 2026-10-28T18:43:09.627Z  
+**Memory:** 8.4 MB (beats 44.52%)  
+**Submitted:** 2026-11-02T17:32:05.953Z  
 
 ```cpp
 class Solution {
